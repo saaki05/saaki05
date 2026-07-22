@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I enjoy building tech that can literally save lives  and yes, I still think I’m funny.**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-saaki05s-projects.vercel.app/](https://portfolio-saaki05s-projects.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[[https://portfolio-saaki05s-projects.vercel.app](https://portfolio-nine-sable-38.vercel.app/)/])**
 
 - 📝 I regularly write articles on **[https://bold.pro/my/saaki-resume05/124r](https://bold.pro/my/saaki-resume05/124r)**
 
