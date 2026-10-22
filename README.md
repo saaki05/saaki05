@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on **AI/ML-based healthcare solutions focused on early-stage cancer detection (including leukemia detection) and intelligent web applications using modern full stack technologies.**
 
-- 🌱 I'm currently learning **AWS Cloud Computing, Advanced Java (Deep Java Concepts), System Design, and scalable AI model deployment techniques.**
-
 - 👯 I'm looking to collaborate on **AI/ML projects, healthcare technology solutions, cloud-based applications, and impactful open-source contributions related to artificial intelligence and full stack development.**
 
 - 🤝 I'm looking for help with **Advanced system design, large-scale cloud architecture, model optimization, and production-level AI deployment**
