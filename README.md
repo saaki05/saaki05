@@ -38,8 +38,12 @@ All five were trained on CPU only. GPU runs, more seeds and the remaining benchm
 |---|---|---|
 | [**LSM-tree key-value store**](https://github.com/saaki05/grandmaster) | Storage engine with write-ahead log, memtable, SSTables with sparse index, Bloom filters and streaming compaction; crash-recovery tests | Python |
 | [**Chennai Insights Dashboard**](https://github.com/saaki05/chennai-insights-dashboard) | Traffic dashboard on the real Chennai road network with DBSCAN hotspot detection and short-horizon forecasts; simulated feed, refreshed by a scheduled workflow · [live](https://saaki05.github.io/chennai-insights-dashboard/) | FastAPI, Leaflet, GitHub Actions |
-| [**BhoomiSetu**](https://github.com/saaki05/bhoomisetu-app-) | Farmer-to-buyer marketplace with listings, orders, real-time chat and weather | Flutter, Node.js, Supabase, Socket.IO |
-| [**SilentSync**](https://github.com/saaki05/SilentSync) | Sign ↔ text ↔ voice communication aid that works offline; sign recognition is stubbed until a trained model exists, and the app says so | Flutter, Supabase |
+
+Also: [BhoomiSetu](https://github.com/saaki05/bhoomisetu-app-), a farmer-to-buyer marketplace (Flutter, Node.js, Supabase), and [SilentSync](https://github.com/saaki05/SilentSync), an offline sign ↔ text ↔ voice communication aid (Flutter).
+
+## Interests
+
+Evaluation methodology and distribution shift, explainable medical imaging, uncertainty estimation, storage and distributed systems, and getting research models into small, monitored services.
 
 ## How the work fits together
 
@@ -86,13 +90,6 @@ flowchart LR
 ## Problem solving
 
 Blue-rated on CodeChef with 1,200+ problems solved, and 350+ on LeetCode.
-
-## GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saaki05&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=transparent" alt="GitHub statistics for saaki05">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaki05&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Most used languages">
-</p>
 
 ---
 
