@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Saaketh Gadepalli — AI/ML engineering with measured, reproducible results">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111c33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+  <!-- graph motif: a small directed pipeline, echoing the data -> model -> service layout used in the projects -->
+  <g stroke="#2b3b5c" stroke-width="1.5" fill="none">
+    <path d="M820 70 L910 110 L1000 62 L1090 120 M910 110 L935 190 L1040 176 L1090 120 M820 70 L800 160 L935 190 M1000 62 L1040 176"/>
+  </g>
+  <g fill="#1b2a47" stroke="#3b527f" stroke-width="1.5">
+    <circle cx="820" cy="70" r="9"/><circle cx="1000" cy="62" r="9"/><circle cx="800" cy="160" r="9"/>
+    <circle cx="1040" cy="176" r="9"/><circle cx="1090" cy="120" r="9"/>
+  </g>
+  <circle cx="910" cy="110" r="11" fill="#5eead4"/>
+  <circle cx="935" cy="190" r="11" fill="#60a5fa"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="104" font-size="50" font-weight="700" fill="#f1f5f9" letter-spacing="-1">Saaketh Gadepalli</text>
+    <rect x="66" y="126" width="96" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="172" font-size="22" fill="#cbd5e1">AI/ML engineering · medical imaging · reproducible research code</text>
+    <text x="64" y="208" font-size="16" fill="#8494b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">B.E. Computer Science and Engineering · Chennai Institute of Technology · 2028</text>
+  </g>
+</svg>
