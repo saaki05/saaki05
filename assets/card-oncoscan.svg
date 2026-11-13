@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 588 372" width="588" height="372" role="img" aria-label="OncoScan-AI: autonomous multi-modality cancer screening. Router 100%, leukemia 91.7%, polyp Dice 0.78.">
+  <style>
+  svg { --bg:#efe9dd; --fg:#15130f; --mu:#655f54; --ln:rgba(21,19,15,.17); --card:rgba(21,19,15,.035); }
+  @media (prefers-color-scheme: dark) {
+    svg { --bg:#100f0d; --fg:#efe9dd; --mu:#a39d90; --ln:rgba(239,233,221,.18); --card:rgba(239,233,221,.045); }
+  }
+  .bg { fill:var(--bg); } .fg { fill:var(--fg); } .mu { fill:var(--mu); }
+  .ln { stroke:var(--ln); fill:none; } .sfg { stroke:var(--fg); fill:none; }
+  .card { fill:var(--card); stroke:var(--ln); }
+  .serif { font-family:Georgia, 'Iowan Old Style', 'Times New Roman', serif; } .it { font-style:italic; }
+  .mono { font-family:ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; letter-spacing:.14em; }
+  .sans { font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .dash { stroke-dasharray:4 7; animation:dash 1.6s linear infinite; }
+  .pulse { transform-box:fill-box; transform-origin:center; animation:pulse 3.2s ease-in-out infinite; }
+  .rise { animation:rise 1.1s cubic-bezier(.2,.7,.1,1) both; }
+  .fade { animation:fade 1.4s ease both; }
+  @keyframes dash { to { stroke-dashoffset:-22; } }
+  @keyframes pulse { 50% { transform:scale(1.2); } }
+  @keyframes rise { from { transform:translateY(46px); opacity:0; } }
+  @keyframes fade { from { opacity:0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }
+</style>
+  <defs>
+    <linearGradient id="ramp" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#6d4bff"/><stop offset=".36" stop-color="#d23bb0"/>
+      <stop offset=".68" stop-color="#fa5433"/><stop offset="1" stop-color="#ffb321"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="26%" r="62%">
+      <stop offset="0" stop-color="#ff5a3c"/><stop offset="1" stop-color="#ff5a3c" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="588" height="372" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect class="bg" width="588" height="372"/>
+
+    <rect width="588" height="372" fill="url(#glow)" opacity=".16"/>
+    <text class="mono" x="32" y="46" font-size="12" fill="#ff5a3c">01  HEALTHCARE AI</text>
+    <text class="mono mu" x="556" y="46" font-size="11" text-anchor="end">OPEN REPOSITORY  ↗</text>
+    <g transform="translate(0 62)"><circle class="fg" cx="61" cy="91" r="1.6" opacity=".35"/><circle class="fg" cx="94" cy="101" r="1.1" opacity=".35"/><circle class="fg" cx="41" cy="129" r="1.4" opacity=".35"/><circle class="fg" cx="61" cy="149" r="1.8" opacity=".35"/><circle class="fg" cx="115" cy="82" r="2.0" opacity=".35"/><circle class="fg" cx="54" cy="103" r="2.4" opacity=".35"/><circle class="fg" cx="87" cy="116" r="2.1" opacity=".35"/><circle class="fg" cx="46" cy="119" r="1.9" opacity=".35"/><circle class="fg" cx="67" cy="24" r="2.4" opacity=".35"/><circle class="fg" cx="83" cy="113" r="2.4" opacity=".35"/><circle class="fg" cx="104" cy="140" r="1.6" opacity=".35"/><circle class="fg" cx="112" cy="78" r="2.5" opacity=".35"/><circle class="fg" cx="119" cy="33" r="1.2" opacity=".35"/><circle class="fg" cx="60" cy="146" r="1.7" opacity=".35"/><circle class="fg" cx="96" cy="59" r="1.8" opacity=".35"/><circle class="fg" cx="75" cy="66" r="1.9" opacity=".35"/><circle class="fg" cx="93" cy="138" r="2.1" opacity=".35"/><circle class="fg" cx="124" cy="131" r="2.6" opacity=".35"/><circle class="fg" cx="100" cy="41" r="2.4" opacity=".35"/><circle class="fg" cx="127" cy="138" r="1.9" opacity=".35"/><circle class="fg" cx="104" cy="47" r="2.3" opacity=".35"/><circle class="fg" cx="92" cy="57" r="1.1" opacity=".35"/><circle class="fg" cx="117" cy="149" r="1.1" opacity=".35"/><circle class="fg" cx="112" cy="73" r="1.2" opacity=".35"/><circle class="fg" cx="66" cy="120" r="2.4" opacity=".35"/><circle class="fg" cx="44" cy="100" r="1.1" opacity=".35"/>
+    <path class="sfg dash" d="M140 86 H206" stroke-width="1.3"/>
+    <circle cx="236" cy="86" r="44" fill="#ff5a3c" opacity=".14" class="pulse"/>
+    <circle cx="236" cy="86" r="27" fill="#ff5a3c" opacity=".32"/>
+    <circle cx="236" cy="86" r="13" fill="#ff5a3c"/>
+    <text class="mono mu" x="236" y="152" font-size="9.5" text-anchor="middle">MODALITY ROUTER</text>
+    <path class="sfg dash" d="M262 86 C 320 86, 318 30, 372 30" stroke-width="1.3" style="animation-delay:0.0s"/><rect class="card" x="372" y="15" width="150" height="30" rx="7"/><text class="mono fg" x="386" y="34" font-size="9.5">LEUKEMIA CNN</text><circle cx="508" cy="30" r="4" fill="#ff5a3c" class="pulse" style="animation-delay:0.0s"/><path class="sfg dash" d="M262 86 C 320 86, 318 86, 372 86" stroke-width="1.3" style="animation-delay:0.3s"/><rect class="card" x="372" y="71" width="150" height="30" rx="7"/><text class="mono fg" x="386" y="90" font-size="9.5">POLYP U-NET</text><circle cx="508" cy="86" r="4" fill="#ff5a3c" class="pulse" style="animation-delay:0.5s"/><path class="sfg dash" d="M262 86 C 320 86, 318 142, 372 142" stroke-width="1.3" style="animation-delay:0.6s"/><rect class="card" x="372" y="127" width="150" height="30" rx="7"/><text class="mono fg" x="386" y="146" font-size="9.5">MULTI-CANCER</text><circle cx="508" cy="142" r="4" fill="#ff5a3c" class="pulse" style="animation-delay:1.0s"/></g>
+    <text class="serif fg" x="32" y="262" font-size="38" letter-spacing="-1.2">OncoScan-AI</text>
+    <text class="sans mu" x="32" y="290" font-size="15">Autonomous multi-modality cancer screening</text>
+    <path class="ln" d="M32 310 H556"/>
+    <text class="serif fg" x="32" y="348" font-size="27" letter-spacing="-.6">100% · 91.7% · 0.78</text>
+    <text class="mono mu" x="556" y="345" font-size="10.5" text-anchor="end">ROUTER · LEUKEMIA · POLYP DICE</text>
+  </g>
+  <rect class="ln" x=".5" y=".5" width="587" height="371" rx="20"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 588 372" width="588" height="372" role="img" aria-label="Five research studies: GraphShield, PredictIQ, PaperMind, TerraVision, VisionForge.">
+  <style>
+  svg { --bg:#efe9dd; --fg:#15130f; --mu:#655f54; --ln:rgba(21,19,15,.17); --card:rgba(21,19,15,.035); }
+  @media (prefers-color-scheme: dark) {
+    svg { --bg:#100f0d; --fg:#efe9dd; --mu:#a39d90; --ln:rgba(239,233,221,.18); --card:rgba(239,233,221,.045); }
+  }
+  .bg { fill:var(--bg); } .fg { fill:var(--fg); } .mu { fill:var(--mu); }
+  .ln { stroke:var(--ln); fill:none; } .sfg { stroke:var(--fg); fill:none; }
+  .card { fill:var(--card); stroke:var(--ln); }
+  .serif { font-family:Georgia, 'Iowan Old Style', 'Times New Roman', serif; } .it { font-style:italic; }
+  .mono { font-family:ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; letter-spacing:.14em; }
+  .sans { font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .dash { stroke-dasharray:4 7; animation:dash 1.6s linear infinite; }
+  .pulse { transform-box:fill-box; transform-origin:center; animation:pulse 3.2s ease-in-out infinite; }
+  .rise { animation:rise 1.1s cubic-bezier(.2,.7,.1,1) both; }
+  .fade { animation:fade 1.4s ease both; }
+  @keyframes dash { to { stroke-dashoffset:-22; } }
+  @keyframes pulse { 50% { transform:scale(1.2); } }
+  @keyframes rise { from { transform:translateY(46px); opacity:0; } }
+  @keyframes fade { from { opacity:0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }
+</style>
+  <defs>
+    <linearGradient id="ramp" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#6d4bff"/><stop offset=".36" stop-color="#d23bb0"/>
+      <stop offset=".68" stop-color="#fa5433"/><stop offset="1" stop-color="#ffb321"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="26%" r="62%">
+      <stop offset="0" stop-color="#8a6cff"/><stop offset="1" stop-color="#8a6cff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="588" height="372" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect class="bg" width="588" height="372"/>
+
+    <rect width="588" height="372" fill="url(#glow)" opacity=".16"/>
+    <text class="mono" x="32" y="46" font-size="12" fill="#8a6cff">02  RESEARCH ENGINEERING</text>
+    <text class="mono mu" x="556" y="46" font-size="11" text-anchor="end">OPEN REPOSITORY  ↗</text>
+    <g transform="translate(0 62)"><path class="ln" d="M196 6 V166"/><path class="ln" d="M540 6 V166" stroke-dasharray="2 5"/><text class="mono mu" x="32" y="26" font-size="10">GRAPHSHIELD</text><path class="ln" d="M196 22 H540" stroke-dasharray="1 6"/><path d="M375 22 H444" stroke="#8a6cff" stroke-width="2"/><path d="M375 17 v10 M444 17 v10" stroke="#8a6cff" stroke-width="1.4"/><circle cx="409" cy="22" r="5.5" fill="#8a6cff" class="pulse" style="animation-delay:0.0s"/><text class="mono mu" x="32" y="58" font-size="10">PREDICTIQ</text><path class="ln" d="M196 54 H540" stroke-dasharray="1 6"/><path d="M337 54 H385" stroke="#8a6cff" stroke-width="2"/><path d="M337 49 v10 M385 49 v10" stroke="#8a6cff" stroke-width="1.4"/><circle cx="361" cy="54" r="5.5" fill="#8a6cff" class="pulse" style="animation-delay:0.4s"/><text class="mono mu" x="32" y="90" font-size="10">PAPERMIND</text><path class="ln" d="M196 86 H540" stroke-dasharray="1 6"/><path d="M447 86 H482" stroke="#8a6cff" stroke-width="2"/><path d="M447 81 v10 M482 81 v10" stroke="#8a6cff" stroke-width="1.4"/><circle cx="464" cy="86" r="5.5" fill="#8a6cff" class="pulse" style="animation-delay:0.8s"/><text class="mono mu" x="32" y="122" font-size="10">TERRAVISION</text><path class="ln" d="M196 118 H540" stroke-dasharray="1 6"/><path d="M275 118 H351" stroke="#8a6cff" stroke-width="2"/><path d="M275 113 v10 M351 113 v10" stroke="#8a6cff" stroke-width="1.4"/><circle cx="313" cy="118" r="5.5" fill="#8a6cff" class="pulse" style="animation-delay:1.2000000000000002s"/><text class="mono mu" x="32" y="154" font-size="10">VISIONFORGE</text><path class="ln" d="M196 150 H540" stroke-dasharray="1 6"/><path d="M416 150 H457" stroke="#8a6cff" stroke-width="2"/><path d="M416 145 v10 M457 145 v10" stroke="#8a6cff" stroke-width="1.4"/><circle cx="437" cy="150" r="5.5" fill="#8a6cff" class="pulse" style="animation-delay:1.6s"/></g>
+    <text class="serif fg" x="32" y="262" font-size="38" letter-spacing="-1.2">Five audited studies</text>
+    <text class="sans mu" x="32" y="290" font-size="15">Graphs, time series, retrieval, satellite imagery</text>
+    <path class="ln" d="M32 310 H556"/>
+    <text class="serif fg" x="32" y="348" font-size="27" letter-spacing="-.6">Measured, with intervals</text>
+    <text class="mono mu" x="556" y="345" font-size="10.5" text-anchor="end">LEAK-AUDITED · MULTI-SEED</text>
+  </g>
+  <rect class="ln" x=".5" y=".5" width="587" height="371" rx="20"/>
+</svg>
