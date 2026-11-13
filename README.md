@@ -1,36 +1,99 @@
-# Hi 👋, I'm Saaketh
-
-### AI/ML Developer | Healthcare Tech Innovator | Full Stack Engineer | Future AWS Certified Professional
-
-- 🔭 I'm currently working on **AI/ML-based healthcare solutions focused on early-stage cancer detection (including leukemia detection) and intelligent web applications using modern full stack technologies.**
-
-- 👯 I'm looking to collaborate on **AI/ML projects, healthcare technology solutions, cloud-based applications, and impactful open-source contributions related to artificial intelligence and full stack development.**
-
-- 🤝 I'm looking for help with **Advanced system design, large-scale cloud architecture, model optimization, and production-level AI deployment**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Healthcare AI, React, Node.js, Java, AWS basics, and building intelligent full-stack applications.**
-
-- 📫 How to reach me **saakethcsse05@gmail.com**
-
-- ⚡ Fun fact **I enjoy building tech that can literally save lives  and yes, I still think I’m funny.**
-
-- 👨‍💻 All of my projects are available at **[[https://portfolio-saaki05s-projects.vercel.app](https://portfolio-nine-sable-38.vercel.app/)/])**
-
-- 📝 I regularly write articles on **[https://bold.pro/my/saaki-resume05/124r](https://bold.pro/my/saaki-resume05/124r)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Ikb6gmFYWEIcTmOHY3dmAQ8L-k5eZROv/view?usp=sharing](https://drive.google.com/file/d/1Ikb6gmFYWEIcTmOHY3dmAQ8L-k5eZROv/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/saaki05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saaki05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saaketh-gadepalli-648a3b325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saaketh-gadepalli-648a3b325/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/32396454/saaketh-gadepalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/32396454/saaketh-gadepalli" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/saakethrockz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saakethrockz/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saaketh_rockz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saaketh_rockz/" height="30" width="40" /></a>
-<a href="https://twitter.com/https://x.com/Saaki1079228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Saaki1079228" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/saakethcse05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saakethcse05/" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/banner.svg" alt="Saaketh Gadepalli — AI/ML engineering, medical imaging, reproducible research code" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+I'm a third-year Computer Science and Engineering student at Chennai Institute of Technology. I build machine-learning systems and try to be strict about how they are evaluated: leak-audited splits, multiple seeds, confidence intervals, and a status table in every repository that says what was actually run and what was not.
 
+My starting point was explainable deep learning for cancer screening. The more recent work applies the same discipline to graphs, time series, retrieval and satellite imagery, with each study shipped as data package → model package → small HTTP service.
+
+<p>
+  <a href="https://linkedin.com/in/saaketh-gadepalli-648a3b325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/saakethcse05/"><img src="https://img.shields.io/badge/LeetCode-1f2937?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/saakethcse05"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"></a>
+</p>
+
+## Research engineering
+
+Each of these is three installable Python packages with one-way dependencies, unit tests, continuous integration (CI), and a README that separates measured results from untested code paths.
+
+| Project | Question it studies | Built from scratch | Data |
+|---|---|---|---|
+| [**GraphShield**](https://github.com/saaki05/project-1-) | Is the gap between graph neural networks and gradient boosting on fraud detection real once splits are audited for leakage? | GCN, GraphSAGE and GAT layers checked against PyTorch Geometric; drift reports | Amazon fraud graph |
+| [**PredictIQ**](https://github.com/saaki05/project-2) | Do conformal prediction intervals for remaining useful life keep their coverage under operating-condition shift? | Split, normalized and binned conformal methods; LSTM, GRU, TCN, Transformer | NASA C-MAPSS |
+| [**PaperMind**](https://github.com/saaki05/project-3) | Which retrieval components beat a tuned BM25 baseline on scientific claims, under paired significance tests? | BM25, RM3, LSA, dual encoder, rank fusion, bootstrap tests | SciFact |
+| [**TerraVision**](https://github.com/saaki05/project-4) | How much do random tile splits inflate change-detection scores, and does self-supervised pretraining help with few labels? | Siamese U-Nets, contrastive pretraining, blocked splits with leakage audit | SpaceNet 7 |
+| [**VisionForge**](https://github.com/saaki05/project-5) | Under a fixed, reported compute budget, how do regression, adversarial and diffusion super-resolution compare? | EDSR, GAN fine-tuning, residual diffusion, PSNR/SSIM | SpaceNet 7 |
+
+All five were trained on CPU only. GPU runs, more seeds and the remaining benchmarks are listed as open work in each README.
+
+## Healthcare AI
+
+| Project | What it does |
+|---|---|
+| [**OncoScan-AI**](https://github.com/saaki05/oncoscan-ai) | One entry point for three screening models: leukemia classification from blood smears (CNN with CBAM attention), colorectal polyp segmentation (CLAHE enhancement and U-Net), and multi-cancer histopathology classification (transfer learning). A router network picks the model, Grad-CAM explains the prediction, and low-confidence cases are flagged for expert review. Research project, not a medical device. |
+
+## Systems and products
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**LSM-tree key-value store**](https://github.com/saaki05/grandmaster) | Storage engine with write-ahead log, memtable, SSTables with sparse index, Bloom filters and streaming compaction; crash-recovery tests | Python |
+| [**Chennai Insights Dashboard**](https://github.com/saaki05/chennai-insights-dashboard) | Traffic dashboard on the real Chennai road network with DBSCAN hotspot detection and short-horizon forecasts; simulated feed, refreshed by a scheduled workflow · [live](https://saaki05.github.io/chennai-insights-dashboard/) | FastAPI, Leaflet, GitHub Actions |
+| [**BhoomiSetu**](https://github.com/saaki05/bhoomisetu-app-) | Farmer-to-buyer marketplace with listings, orders, real-time chat and weather | Flutter, Node.js, Supabase, Socket.IO |
+| [**SilentSync**](https://github.com/saaki05/SilentSync) | Sign ↔ text ↔ voice communication aid that works offline; sign recognition is stubbed until a trained model exists, and the app says so | Flutter, Supabase |
+
+## How the work fits together
+
+```mermaid
+flowchart LR
+  subgraph R[Research engineering]
+    GS[GraphShield<br/>graphs] --- PQ[PredictIQ<br/>time series]
+    PM[PaperMind<br/>retrieval] --- TV[TerraVision<br/>change detection]
+    VF[VisionForge<br/>super-resolution]
+  end
+  subgraph H[Healthcare AI]
+    ON[OncoScan-AI]
+  end
+  subgraph S[Systems]
+    LSM[LSM-tree store]
+    CH[Chennai dashboard]
+  end
+  subgraph P[Products]
+    BS[BhoomiSetu]
+    SS[SilentSync]
+  end
+  H -- "evaluation habits" --> R
+  R -- "each study ships a FastAPI service" --> S
+  S -- "backend patterns" --> P
+```
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,react,flutter,postgres,docker,githubactions&perline=13" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Flask, Node.js, React, Flutter, PostgreSQL, Docker, GitHub Actions">
+</p>
+
+- **Machine learning:** PyTorch, TensorFlow/Keras, scikit-learn, XGBoost; convolutional networks, U-Net, graph neural networks, sequence models, diffusion; Grad-CAM; conformal prediction
+- **Evaluation:** temporal and spatially blocked splits, leakage audits, bootstrap confidence intervals, paired permutation tests
+- **Backend:** FastAPI, Flask, Express, REST, WebSockets, PostgreSQL, MySQL, SQLite, MongoDB
+- **Languages:** Python, Java, C++, JavaScript, Dart
+
+## Experience
+
+- **Software Development Intern, Siddi Vinayaka Mobikes Pvt. Ltd.** (April to June 2026). Built the browser-based vehicle movement tracker the dealership uses, on Google Sheets and Apps Script.
+- **AI/ML developer, Fintech Centre of Excellence, Chennai Institute of Technology** (December 2025 to present). Explainable deep learning for diagnostics and Flask inference APIs.
+- **Organiser, AI Engineering Club, Chennai Institute of Technology.**
+
+## Problem solving
+
+Blue-rated on CodeChef with 1,200+ problems solved, and 350+ on LeetCode.
+
+## GitHub activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saaki05&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=transparent" alt="GitHub statistics for saaki05">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaki05&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Most used languages">
+</p>
+
+---
+
+Open to research internships and collaboration on evaluation-focused machine learning. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/saaketh-gadepalli-648a3b325).
