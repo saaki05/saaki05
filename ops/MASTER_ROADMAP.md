@@ -2,14 +2,19 @@
 
 | Stage | Scope | State |
 |---|---|---|
-| 1 | Audit GitHub and resume | done — `GITHUB_AUDIT.md` |
-| 2 | Findings and strategy | done |
-| 3 | Profile README and assets | branch `profile-redesign` pushed; awaiting merge |
-| 4 | Existing repositories: rename, LICENSE, CI, README gaps | blocked on owner actions (see `PROJECT_STATUS.md`) |
-| 5 | Flagship builds | not started |
-| 6 | Portfolio site | not started |
-| 7 | CI/CD standards across repositories | not started |
-| 8 | Final audit | not started |
+| 1 | Audit GitHub and resume | Complete and verified |
+| 2 | Findings and strategy | Complete and verified |
+| 3 | Profile README and assets | Complete and verified — merged, rendered, checked |
+| 4 | Renames, descriptions, pins, cleanup | Blocked by authentication |
+| 5a | Distributed LSM store: engine verification, Raft core, simulation tests | Complete and verified |
+| 5b | Distributed LSM store: network transport, server, cluster demo | Pending |
+| 5c | ModelOps Hub | Blocked — repository missing |
+| 5d | Agent Fault Lab | Blocked — repository missing |
+| 6 | Vercel inventory and migration | Blocked by authentication |
+| 7 | Portfolio site | Pending |
+| 8 | Technical audits and model improvement of ML projects | Pending; training blocked by infrastructure |
+| 9 | CI and templates across repositories | Pending (done for lsmkv) |
+| 10 | Final audit and consistency check | Pending |
 
 ## Flagship candidates (gap: agents, distributed systems, MLOps, security)
 
